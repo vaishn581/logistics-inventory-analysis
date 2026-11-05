@@ -1,0 +1,11 @@
+order_id,order_date,origin,destination,product_category,quantity,transport_cost_inr,delivery_days,on_time
+1001,2026-10-01,Pune,Mumbai,Electronics,20,1800,2,1
+1002,2026-10-02,Nashik,Pune,Clothing,35,950,1,1
+1003,2026-10-03,Mumbai,Nagpur,Food,50,2400,4,0
+1004,2026-10-04,Pune,Nashik,Electronics,15,1200,2,1
+1005,2026-10-05,Aurangabad,Pune,Home Goods,25,1500,3,1
+1006,2026-10-06,Nagpur,Mumbai,Clothing,40,2100,5,0
+1007,2026-10-07,Pune,Nagpur,Food,60,2600,3,1
+1008,2026-10-08,Mumbai,Pune,Electronics,18,1100,1,1
+1009,2026-10-09,Nashik,Mumbai,Home Goods,22,1300,2,1
+1010,2026-10-10,Pune,Aurangabad,Clothing,30,1700,4,0
