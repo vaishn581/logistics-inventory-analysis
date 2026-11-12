@@ -1,0 +1,16 @@
+order_id,delivery_days,shipment_volume,transportation_cost,destination
+1001,2,50,500,Pune
+1002,4,80,900,Mumbai
+1003,3,60,650,Nanded
+1004,5,100,1200,Nashik
+1005,2,40,450,Pune
+1006,6,120,1500,Mumbai
+1007,3,70,750,Aurangabad
+1008,4,90,1000,Pune
+1009,2,55,550,Nanded
+1010,5,110,1350,Mumbai
+1011,3,65,700,Nashik
+1012,4,85,950,Aurangabad
+1013,7,130,1700,Mumbai
+1014,2,45,480,Pune
+1015,5,105,1250,Nanded
